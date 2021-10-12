@@ -180,6 +180,7 @@ h6, .h6 {
 
 p img {
   margin: 0;
+  border-radius: 50%;
 }
 
 p.lead {
@@ -1591,7 +1592,7 @@ input::-moz-focus-inner {
  *
  * ------------------------------------------------------------------- */
 .s-header {
-  
+
   position: absolute;
   top: 2rem;
   left: 0;
@@ -1602,7 +1603,7 @@ input::-moz-focus-inner {
 }
 
 .s-header.sticky {
-  background-color: #990000;
+  background-color: #7a0019;
   position: fixed;
   top: 0;
   left: 0;
@@ -1928,7 +1929,7 @@ input::-moz-focus-inner {
   background-color: #02182c;
   background-repeat: no-repeat;
   background-position: top center;
-  background-image: url(../images/hero-pic.jpg);
+  background-image: url(../images/tech-gb5c9cf733_1920.jpg);
   background-size: cover;
   position: absolute;
   top: 20%;
@@ -2272,11 +2273,11 @@ input::-moz-focus-inner {
 }
 
 .timeline__icon--work {
-  background-image: url(../images/icons/icon-briefcase.svg);
+  background-image: url(../images/icons/streamlit-mark-color.svg);
 }
 
 .timeline__icon--education {
-  background-image: url(../images/icons/icon-education.svg);
+  background-image: url(../images/icons/streamlit-mark-color.svg);
 }
 
 .timeline__block {
