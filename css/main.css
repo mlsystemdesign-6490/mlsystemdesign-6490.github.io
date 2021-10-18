@@ -83,7 +83,7 @@ body {
  * ## links
  * ------------------------------------------------------------------- */
 a {
-  color: #cf1767;
+  color: #7a0015;
   transition: all 0.3s ease-in-out;
 }
 
@@ -181,6 +181,12 @@ h6, .h6 {
 p img {
   margin: 0;
   border-radius: 50%;
+}
+figure{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    overflow:hidden;
 }
 
 p.lead {
@@ -1969,10 +1975,10 @@ input::-moz-focus-inner {
 
 .intro-text h3 {
   font-family: "Roboto", sans-serif;
-  font-size: 2.4rem;
+  font-size: 3.2rem;
   font-weight: 500;
   line-height: 1.333;
-  color: #cf1767;
+  color: #7a0019;
   margin-top: 0;
 }
 
@@ -3297,6 +3303,7 @@ input::-moz-focus-inner {
   font-size: 11.2rem;
   font-weight: 400;
   line-height: 1;
+  color: #7a0019;
   margin: 5.6rem 0 8rem;
 }
 
@@ -3365,6 +3372,7 @@ input::-moz-focus-inner {
 @media screen and (max-width:1300px) {
   .contact-email {
     font-size: 10rem;
+    color: #7a0019;
   }
 
   .contact-infos {
@@ -3380,6 +3388,7 @@ input::-moz-focus-inner {
 @media screen and (max-width:1200px) {
   .contact-email {
     font-size: 9rem;
+      color: #7a0019;
   }
 
   .contact-infos {
@@ -3391,6 +3400,7 @@ input::-moz-focus-inner {
 @media screen and (max-width:1024px) {
   .contact-email {
     font-size: 7.2rem;
+      color: #7a0019;
   }
 
   .contact-infos {
@@ -3410,6 +3420,7 @@ input::-moz-focus-inner {
 
   .contact-email {
     font-size: 9vw;
+      color: #7a0019;
   }
 
   .contact-infos {
